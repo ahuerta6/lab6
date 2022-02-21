@@ -19,7 +19,7 @@
 }
 
 #main-navbar{
- background-color: blue;
+ background-color: brown;
  overflow: hidden;
  float: left;
  width: 100%;
@@ -40,7 +40,3 @@
  list-style-type: none;
 }
 
-body nav {
- text-decoration: none;
- list-style-type: none;
-}
