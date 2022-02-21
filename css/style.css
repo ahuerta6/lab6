@@ -38,12 +38,14 @@
  padding: 15px 0;
  color: #fff;
  background-color: #000;
+}
+
+#sidebar-container ul {
  text-decoration: none;
  list-style-type: none;
 }
 
 .floatimg {
  float: right;
- right: 20%;
 }
 
