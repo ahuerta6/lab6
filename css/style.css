@@ -9,7 +9,7 @@
  padding:0%;
 }
 
-.navbar-container {
+#navbar-container {
  float: left;
  position: relative;
  display: block;
@@ -29,7 +29,7 @@
  width: 20%;
 }
 
-.sidebar-container {
+#sidebar-container {
  position: fixed;
  text-align: center;
  padding: 0%;
