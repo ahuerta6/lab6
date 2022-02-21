@@ -21,6 +21,11 @@
  list-style-type: none;
 }
 
+#navbar-container ul {
+ text-decoration: none;
+ list-style-type: none;
+}
+
 #sidebar {
  position: absolute;
  right: 0%;
