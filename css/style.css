@@ -51,7 +51,7 @@
 }
 
 .floatimg {
- right: 20%;
+ float: none;
  width: 50%;
  height: 50%;
 }
