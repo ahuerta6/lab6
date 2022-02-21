@@ -22,7 +22,7 @@
 }
 
 #sidebar {
- position: fixed;
+ position: relative;
  right: 0%;
  background-color: red;
  height: 100%;
@@ -31,7 +31,7 @@
 }
 
 #sidebar-container {
- position: relative;
+ position: fixed;
  text-align: center;
  padding: 0%;
  display: block;
