@@ -22,7 +22,7 @@
 }
 
 #sidebar {
- position: relative;
+ position: absolute;
  right: -50%;
  background-color: red;
  height: 100%;
