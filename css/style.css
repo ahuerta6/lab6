@@ -42,3 +42,7 @@
  list-style-type: none;
 }
 
+.floatimg {
+ float: right;
+}
+
