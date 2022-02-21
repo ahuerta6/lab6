@@ -1,5 +1,5 @@
 
-#main-navbar{
+.main-navbar{
  background-color: blue;
  overflow: hidden;
  float: left;
@@ -21,7 +21,7 @@
  list-style-type: none;
 }
 
-#sidebar {
+.sidebar {
  position: relative;
  right: 0%;
  background-color: red;
