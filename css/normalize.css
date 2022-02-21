@@ -428,15 +428,15 @@ th {
 }
 
 #sidebar {
-  position: fixed;
+  position: relative;
   right: 0%;
   background-color: red;
   height: 100%;
   width: 20%;
-  list-style-type: none;
-}
-
-#sidebar-container {
+ }
+ 
+ #sidebar-container {
+  position: fixed;
   text-align: center;
   padding: 0%;
   display: block;
@@ -444,21 +444,20 @@ th {
   color: #fff;
   text-decoration: none;
   background-color: #000;
-}
-
-#main-navbar{
+  list-style-type: none;
+ }
+ 
+ #main-navbar{
   background-color: blue;
   overflow: hidden;
   float: left;
   width: 100%;
   position: relative;
-  list-style-type: none;
   margin: 0%;
   padding:0%;
-  position: relative;
-}
-
-#navbar-container {
+ }
+ 
+ #navbar-container {
   float: left;
   position: relative;
   display: block;
@@ -466,5 +465,6 @@ th {
   color: #fff;
   text-decoration: none;
   background-color: #000;
-  text-decoration: underline overline;
-}
+  text-decoration: none;
+  list-style-type: none;
+ }
