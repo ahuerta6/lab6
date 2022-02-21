@@ -88,8 +88,7 @@ template {
  */
 
 a {
-  background-color: blue;
-  color: #000;
+  background-color: transparent;
 }
 
 /**
