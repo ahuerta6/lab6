@@ -1,22 +1,3 @@
-#sidebar {
- position: relative;
- right: 0%;
- background-color: red;
- height: 100%;
- width: 20%;
-}
-
-#sidebar-container {
- position: fixed;
- text-align: center;
- padding: 0%;
- display: block;
- padding: 15px 0;
- color: #fff;
- text-decoration: none;
- background-color: #000;
- list-style-type: none;
-}
 
 #main-navbar{
  background-color: blue;
