@@ -461,7 +461,7 @@ th {
 #navbar-container {
   float: left;
   position: relative;
-  right: 50%;
+  left: 50%;
   display: block;
   padding: 10px 20px;
   color: #fff;
