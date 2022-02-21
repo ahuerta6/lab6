@@ -4,7 +4,7 @@
  overflow: hidden;
  float: left;
  width: 100%;
- position: relative;
+ position: absolute;
  margin: 0%;
  padding:0%;
 }
