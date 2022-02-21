@@ -30,7 +30,7 @@
 }
 
 #sidebar-container {
- position: relative;
+ position: absolute;
  text-align: center;
  padding: 0%;
  display: block;
